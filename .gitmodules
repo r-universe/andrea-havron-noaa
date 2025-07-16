@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/andrea-havron-noaa/andrea-havron-noaa.r-universe.dev
 	branch = HEAD
+[submodule "Andrea-Havron-NOAA-FIMS-FIMS"]
+	path = Andrea-Havron-NOAA-FIMS-FIMS
+	url = https://github.com/Andrea-Havron-NOAA/FIMS
