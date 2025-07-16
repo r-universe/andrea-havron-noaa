@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/andrea-havron-noaa/andrea-havron-noaa.r-universe.dev
 	branch = HEAD
-[submodule "Andrea-Havron-NOAA-FIMS-FIMS"]
-	path = Andrea-Havron-NOAA-FIMS-FIMS
+[submodule "FIMS"]
+	path = FIMS
 	url = https://github.com/Andrea-Havron-NOAA/FIMS
